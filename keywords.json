@@ -1,0 +1,214 @@
+[
+  {
+    "question": "Greetings",
+    "keywords": ["hello", "hey"],
+    "answers": [
+      "Hey there! How can I help you?",
+      "Hello! How may I assist you today?"
+    ]
+  },
+  {
+  "question": "Goodbye",
+  "keywords": ["goodbye", "bye", "thanks", "thank you"],
+  "answers": [
+    "Take care and have a wonderful day! Goodbye!",
+    "If you have any more questions or need further assistance, feel free to ask. Goodbye and have a great day!"
+  ]
+},
+  {
+  "question": "Thanks",
+  "keywords": [ "thanks", "thank you"],
+  "answers": [
+    "You're welcome! I'm here to help anytime you need.",
+    "If you have any more questions or need further assistance, feel free to ask."
+  ]
+},
+
+  {
+    "question": "How do I place an order?",
+    "keywords": ["place"],
+    "answers": [
+      "To place an order, simply visit our website and proceed to checkout. You can also track your previous order by simply saying 'track order'. In addition you can ask for 'payment methods available'. ",
+      "You can place an order by adding items to your cart and completing the checkout process on our website. You can also track your previous order by simply saying 'track order'. In addition you can ask for 'payment methods available'."
+    ]
+  },
+  {
+  "question": "Where can I find the specifications and technical details of a product?",
+  "keywords": ["specifications", "technical", "details", "product"],
+  "answers": [
+    "For detailed specifications and technical details of a product, please refer to its product page on our website. All the necessary information will be listed there.",
+    "To access comprehensive specifications and technical details of a product, kindly visit its product page on our website. You'll find all the relevant information listed there."
+  ]
+},
+  {
+    "question": "What payment methods do you accept?",
+    "keywords": ["payment", "methods"],
+    "answers": [
+      "We accept various payment methods including credit cards and PayPal.",
+      "You can make a payment using credit cards or PayPal at the checkout."
+    ]
+  },
+  {
+    "question": "Can I track my order?",
+    "keywords": ["track"],
+    "answers": [
+      "Yes, you can track your order through our website. Can you can provide me with your orderID in format 'TRACK ##XXX' ?",
+      "You can easily track your order by entering your order number on our website's tracking page.\n In addition you can provide me with your orderID in format 'TRACK ##XXX'.",
+      "Your order is currently being prepared and is expected to be processed within the next 24 to 48 hours. If you dont like your order you can 'cancel my order'."
+    ]
+  },
+  {
+    "question": "What is your return policy?",
+    "keywords": ["return", "policy"],
+    "answers": [
+      "Our return policy allows you to return items within 30 days of purchase. Did you receive a defective product? Simply continue by saying 'defective'.",
+      "You have a 30-day window from the date of purchase to return items as per our return policy. Did you receive a defective product? Simply continue by saying 'defective'."
+    ]
+  },
+  {
+    "question": "How long does shipping usually take?",
+    "keywords": ["shipping", "delivery"],
+    "answers": [
+      "Shipping times may vary, but typically it takes 3-5 business days for domestic orders and 7-14 business days for international orders.",
+      "The estimated shipping time for domestic orders is 3-5 business days, while international orders may take 7-14 business days to arrive."
+    ]
+  },
+  {
+    "question": "Do you offer international shipping?",
+    "keywords": ["international"],
+    "answers": [
+      "Yes, we offer international shipping to select countries.",
+      "International shipping is available for customers in specific countries. Please check our website for the list of eligible countries."
+    ]
+  },
+  {
+    "question": "What are the warranty terms for your products?",
+    "keywords": ["warranty"],
+    "answers": [
+      "Our products are covered by a one-year warranty.",
+      "We provide a one-year warranty for all our products against manufacturing defects."
+    ]
+  },
+  {
+    "question": "Can I cancel my order?",
+    "keywords": ["cancel"],
+    "answers": [
+      "You can cancel your order if it hasn't been shipped yet. Can you provide me with the orderID in the format 'CANCEL ##XXX' ?",
+      "Cancellation of your order is possible as long as it hasn't been shipped. Can you provide me with the orderID in the format 'CANCEL ##XXX' ?",
+      "Your order has been successfully canceled. We apologize for any inconvenience caused. Continue by asking for feedback menu or return policy. "
+    ]
+  },
+  {
+    "question": "How do I change my shipping address?",
+    "keywords": ["change", "address"],
+    "answers": [
+      "To change your shipping address, please contact our customer support.",
+      "If you need to change your shipping address, reach out to our customer support team with your order details, and they will assist you in updating the address."
+    ]
+  },
+  {
+    "question": "Do you have a size guide for clothing items?",
+    "keywords": ["size", "guide"],
+    "answers": [
+      "Yes, we provide a size guide for our clothing items.",
+      "You can find a comprehensive size guide for our clothing items on our website to help you choose the perfect fit."
+    ]
+  },
+  {
+    "question": "What materials are used in your products?",
+    "keywords": ["materials", "products"],
+    "answers": [
+      "Our products are made from high-quality materials.",
+      "We pride ourselves on using only high-quality materials for our products to ensure durability and customer satisfaction."
+    ]
+  },
+  {
+    "question": "Can I customize or personalize a product?",
+    "keywords": ["customize", "personalize"],
+    "answers": [
+      "Unfortunately, we do not offer customization or personalization options for our products.",
+      "At the moment, we do not provide customization or personalization services for our products."
+    ]
+  },
+  {
+    "question": "How can I contact customer support?",
+    "keywords": ["contact", "customer", "support"],
+    "answers": [
+      "You can contact our customer support team by email or phone.",
+      "If you have any questions or need assistance, our customer support team is available via email or phone. Please don't hesitate to reach out."
+    ]
+  },
+  {
+    "question": "What should I do if I receive a defective product?",
+    "keywords": ["request", "refund", "defective"],
+    "answers": [
+      "Yes, if you receive a defective product, please contact our customer support within 7 days of receiving the item to request a refund or replacement.",
+      "In the case of a defective product, please reach out to our customer support within 7 days of receiving the item, and they will assist you with a refund or replacement."
+    ]
+  },
+  {
+    "question": "Do you offer discounts or promotions?",
+    "keywords": ["discounts", "promotions"],
+    "answers": [
+      "Yes, we regularly offer discounts and promotions on selected products. Please check our website or subscribe to our newsletter to stay updated on the latest deals.",
+      "Stay tuned for our exciting discounts and promotions on selected products. Visit our website or subscribe to our newsletter for the latest updates."
+    ]
+  },
+  {
+    "question": "Are there any ongoing sales or special offers?",
+    "keywords": ["ongoing", "sales", "special", "offers"],
+    "answers": [
+      "Yes, we have ongoing sales and special offers on various products. Visit our website's 'Sales' section to explore the current deals.",
+      "Check out our 'Sales' section on the website to discover ongoing sales and special offers on a wide range of products."
+    ]
+  },
+  {
+    "question": "What are the care instructions for a specific product?",
+    "keywords": ["care", "instructions", "specific"],
+    "answers": [
+      "The care instructions for each product can be found on its respective product page. Please refer to the provided instructions for proper maintenance and care.",
+      "For detailed care instructions specific to each product, kindly refer to the product page where you'll find comprehensive guidelines for maintenance and care."
+    ]
+  },
+  {
+    "question": "Can I change the color or size of an item in my order?",
+    "keywords": ["change", "color", "size", "item"],
+    "answers": [
+      "If you wish to change the color or size of an item in your order, please contact our customer support as soon as possible before the item is shipped.",
+      "To modify the color or size of an item in your order, please reach out to our customer support immediately. Changes can be accommodated if the item hasn't been shipped yet."
+    ]
+  },
+  {
+    "question": "How can I check the status of my order?",
+    "keywords": ["check", "status", "##"],
+    "answers": [
+      "Thank you for your inquiry regarding the status of your order. To provide you with an update, your order is currently being processed and prepared for shipment. We anticipate that it will be dispatched within the next 24 hours. Once your order is shipped, you will receive a confirmation email with tracking information. We appreciate your patience and are dedicated to ensuring a smooth and timely delivery of your product. If you have any further questions, please don't hesitate to reach out to our customer support team.",
+      "To check the status of your order, log in to your account on our website and navigate to the 'Order Status' page for real-time updates."
+
+    ]
+  },
+  {
+    "question": "Do you have a loyalty rewards program?",
+    "keywords": ["loyalty", "rewards", "program", "payback"],
+    "answers": [
+      "Yes, we have a loyalty rewards program. As a valued customer, you can earn points for every purchase and redeem them for exclusive rewards and discounts.",
+      "Become a part of our loyalty rewards program and enjoy the benefits of earning points with every purchase. Redeem your points for exclusive rewards and discounts."
+    ]
+  },
+  {
+    "question": "Are there any restrictions on international orders?",
+    "keywords": ["restrictions", "international"],
+    "answers": [
+      "There may be certain restrictions on international orders based on the destination country's customs regulations and shipping policies. Please check our website for more information.",
+      "International orders may have specific restrictions based on the customs regulations and shipping policies of the destination country. Visit our website for detailed information regarding international orders."
+    ]
+  },
+  {
+    "question": "How can I provide feedback on a product?",
+    "keywords": ["provide", "feedback", "product", "rate"],
+    "answers": [
+      "We appreciate your feedback! You can provide feedback on a product by visiting its product page on our website and clicking on the 'Reviews' section. If you want to know more about our products, you can ask about materials, size guide , warranty etc.",
+      "Your feedback is valuable to us. Please visit the product page on our website and navigate to the 'Reviews' section to share your thoughts and experiences. If you want to know more about our products, you can ask about materials, size guide , warranty etc."
+    ]
+  }
+]
